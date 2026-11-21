@@ -8,7 +8,7 @@
 const CONFIG = {
   nome: "Isac Rocha Valezi",
   formatura: "2026-12-12T20:00:00",   // TROQUE pela data e hora da sua formatura (AAAA-MM-DDTHH:MM:SS)
-  frases: ["um formando de 17 anos", "quem enfiou letrinha de EVA no nariz", "quem jogava Uno com a psicóloga"]
+  frases: ["um formando de 17 anos", que ja esta com saudade ]
 };
 
 /* Memórias: cada item é uma estação da trilha. Fotos ficam em assets/img/memorias/
